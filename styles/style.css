@@ -1,0 +1,34 @@
+
+.back-button {
+    position: fixed;
+    top: 25px;
+    left: 25px;
+}
+
+.nav-item .active {
+    color: rgb(0, 86, 179);
+}
+
+.list-group-item {
+    border: none;
+}
+
+.card h2 {
+    font-size: 14px;
+}
+
+.card p {
+    font-size: 12px;
+}
+
+.card .text-muted {
+    font-size: 10px;
+}
+
+.card:hover h2 {
+    color: rgba(0, 26, 255, 0.7);
+}
+
+.card:hover {
+    border: 1px solid rgba(0, 26, 255, 0.7);
+}
